@@ -1,3 +1,3 @@
 # repo01
 
-Welcome to te coding summer school
+Welcome to the coding summer school
